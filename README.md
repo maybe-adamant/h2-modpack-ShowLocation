@@ -4,8 +4,7 @@
 
 ## Features
 
-- Makes the location counter (e.g., "Erebus - 3") permanently visible during runs.
-- Helps you keep track of your progress through a biome.
+- Makes the location counter permanently visible during runs.
 
 ## Installation
 
